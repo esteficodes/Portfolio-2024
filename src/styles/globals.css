@@ -1,0 +1,15 @@
+/* styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.light-bulb {
+  @apply filter-none;
+}
+
+@media (prefers-color-scheme: dark) {
+  .light-bulb {
+    @apply filter invert brightness-200;
+  }
+}
+
