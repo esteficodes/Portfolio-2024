@@ -70,7 +70,7 @@ export default function About() {
               </p>
               <p className="my-4 font-medium">
                 I believe that design is about more than just making things look
-                pretty – it&apos;s about solving problems and creating
+                pretty – it's about solving problems and creating
                 intuitive, enjoyable experiences for users.
               </p>
               <p className="font-medium">
@@ -106,7 +106,7 @@ export default function About() {
                 </span>
                 <h2 className="mb-4 text-xl font-medium capitalize text-dark/75 dark:text-light/75 
                 xl:text-center md:text-lg sm:text-base xs:text-sm">
-                  technologies I've worked with
+                  technologies I&apos;ve worked with
                 </h2>
               </div>
 
