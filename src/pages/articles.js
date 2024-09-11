@@ -157,7 +157,7 @@ export default function Articles() {
 
           <ul className="flex flex-col items-center relative">
             <Article
-              title="silky smooth scrolling in reactjs: a step-by-step guide for react developers"
+              title="My reflections halfway through a coding bootcamp: the good, the bad and the ugly: UNCENSORED."
               //img={}//
               date="May 2022"
               link="https://estefaniaquevedolusby.medium.com/my-reflections-halfway-through-a-coding-bootcamp-the-good-the-bad-and-the-ugly-uncensored-ed66db7be369"
@@ -169,7 +169,7 @@ export default function Articles() {
               link="https://estefaniaquevedolusby.medium.com/from-literature-to-coding-this-is-not-kansas-anymore-dcd1c5d28339"
             />
             <Article
-              title="The Starting-from-scratch Developer’s Mini-guide"
+              title="The Starting-from-scratch Developer's Mini-guide"
               //img={}//
               date="March 2022"
               link="https://estefaniaquevedolusby.medium.com/the-starting-from-scratch-developers-mini-guide-some-apps-review-15c59e55f266"

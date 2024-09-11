@@ -38,11 +38,11 @@ export default function Home() {
             </div>
             <div className="flex w-1/2 flex-col items-center self-center lg:w-full lg:text-center">
               <AnimatedText
-                text="Frontend Developer."
+                text="Estefanía Q. Lusby (Nia)"
                 className="!text-left !text-6xl xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl"
               />
               <p className="my-4 text-base font-medium md:text-sm sm:!text-xs">
-                As a frontend developer, I am dedicated to turning ideas into innovative web applications. Explore my latest projects and articles, showcasing my expertise in React.js and web development.
+                Hola! I'm a frontend developer and tech writer. Explore my latest projects and articles, showcasing my expertise in React.js and web development.
               </p>
               <div className="mt-2 flex items-center self-start lg:self-center">
                 <Link
@@ -55,7 +55,7 @@ export default function Home() {
                 </Link>
 
                 <Link
-                  href="mailto:estefaniaq9@gmail.com"
+                  href="mailto:nialusby@gmail.com"
                   className="ml-4 text-lg font-medium capitalize text-dark underline dark:text-light md:text-base"
                 >
                   Contact

@@ -5,12 +5,12 @@ import { motion } from "framer-motion";
 import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
-// import proj1 from "../../public/images/projects/crypto-screener-cover-image.jpg";
-// import proj2 from "../../public/images/projects/nft-collection-website-cover-image.jpg";
-// import proj3 from "../../public/images/projects/fashion-studio-website.jpg";
-// import proj4 from "../../public/images/projects/portfolio-cover-image.jpg";
-// import proj5 from "../../public/images/projects/agency-website-cover-image.jpg";
-// import proj6 from "../../public/images/projects/devdreaming.jpg";
+import p1 from "../../public/images/projects/p1.jpg";
+import p2 from "../../public/images/projects/p2.jpg";
+import p3 from "../../public/images/projects/p3.jpg";
+import p4 from "../../public/images/projects/p4.jpg";
+import p5 from "../../public/images/projects/p5.jpg";
+
 import TransitionEffect from "@/components/TransitionEffect";
 
 const FramerImage = motion(Image);
@@ -186,7 +186,7 @@ export default function Projects() {
                 type="Featured Project"
                 title="WIT (Women In Tech) Meeting point"
                 summary="An app that reunites all the available resources aimed at women who wish to get into the tech industry. Pair-programmed. We've also built the backend"
-                //img={proj1}//
+                img={p1}
                 link="https://wit-meetingpoint.netlify.app/"
                 github="https://github.com/esteficodes/final-project"
               />
@@ -195,7 +195,7 @@ export default function Projects() {
               <Project
                 type="Website-App"
                 title="Project movies"
-                //img={proj2}//
+                img={p2}
                 link="https://movie-app-by-estefania-and-irina.netlify.app/"
                 github="https://github.com/esteficodes/project-movies"
               />
@@ -204,7 +204,7 @@ export default function Projects() {
               <Project
                 type="App"
                 title="Project Music Releases"
-                //img={proj3}//
+                img={p3}
                 link="https://app.netlify.com/sites/cranky-colden-77d5cc/overview"
                 github="https://github.com/esteficodes/project-music-releases"
               />
@@ -214,7 +214,7 @@ export default function Projects() {
                 type="App"
                 title="Weather App"
                 summary="An app featuring the weather prediction for Stockholm, Barcelona & Buenos Aires"
-                //img={proj4}//
+                img={p5}
                 link="https://pedantic-northcutt-25e910.netlify.app/"
                 github="https://github.com/esteficodes/project-weather-app"
               />
@@ -222,7 +222,7 @@ export default function Projects() {
             <div className="col-span-6 sm:col-span-12">
               <Project
                 type="App"
-                //img={proj6}//
+                img={p4}
                 title="Happy Thoughts App"
                 link="https://happy-thoughts-app-estefania.netlify.app/"
                 github="https://github.com/esteficodes/project-happy-thoughts?tab=readme-ov-file"

@@ -54,6 +54,7 @@ const Skills = () => {
           <Skill name="Style Components" x="32vw" y="-5vw" />
           <Skill name="Figma" x="0vw" y="-20vw" />
           <Skill name="WordPress" x="-25vw" y="18vw" />
+          <Skill name="Umbraco" x="0vw" y="12vw" />
           <Skill name="Tailwind CSS" x="28vw" y="18vw" />
     </div></>
   );
