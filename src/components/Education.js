@@ -42,7 +42,14 @@ const Education = () => {
           className="absolute left-9 top-0 w-[4px] md:w-[2px] md:left-[30px] xs:left-[20px] h-full bg-dark  origin-top rounded-full dark:bg-primaryDark dark:shadow-3xl"
           style={{ scaleY: scrollYProgress }}
         />
+        
         <ul className="w-full flex flex-col items-start justify-between ml-4">
+        <Details
+            type="Fullstack course: Deep Dive Into Modern Web Development"
+            time="Currently studying"
+            place="Department of Computer Science - University of Helsinki "
+            info="Introduction to modern web application development with JavaScript. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. The course also contains a section on GraphQL, a modern alternative to REST APIs."
+          />
         <Details
             type="Online Coursework"
             time="2021-2024"
@@ -67,6 +74,10 @@ Course highlights:
 - CSS3
 
 Graduated in June 2021"
+          />
+          <Details
+            type= "Professional background"
+            info="My study background is very mixed:"
           />
 
         </ul>
