@@ -163,7 +163,7 @@ export default function Projects() {
   return (
     <>
       <Head>
-        <title>Projects Page | Estefania&apos;s Portfolio</title>
+        <title>Projects Page | Estefania's Portfolio</title>
         <meta
           name="description"
           content="Discover the latest webapp projects created by Estefania, a Next.js developer with 
