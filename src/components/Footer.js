@@ -13,7 +13,7 @@ const Footer = () => {
         <span>{new Date().getFullYear()} &copy; All Rights Reserved.</span>
 
         <div className="flex items-center lg:py-2">
-        Built with <span className="text-2xl px-1" style={{ color: '#61DAFB' }}>&#9825;</span> by&nbsp;
+        Coded with <span className="text-2xl px-1" style={{ color: '#61DAFB' }}>&#9825;</span> by&nbsp;
         <Link
         href="https://estefaniaquevedo.com"
         target="_blank"
