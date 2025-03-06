@@ -187,7 +187,7 @@ const Navbar = () => {
             <motion.a
               target={"_blank"}
               className="w-6 m-1 mx-3 bg-light rounded-full dark:bg-dark sm:mx-1"
-              href="#"
+              href="https://github.com/esteficodes"
               whileHover={{ y: -2 }}
               whileTap={{ scale: 0.9 }}
               aria-label="Checkout my github profile"
@@ -197,7 +197,7 @@ const Navbar = () => {
             <motion.a
               target={"_blank"}
               className="w-6 m-1 mx-3 sm:mx-1"
-              href="#"
+              href="https://www.linkedin.com/in/estefania-quevedo-lusby-24bb5a3/"
               whileHover={{ y: -2 }}
               whileTap={{ scale: 0.9 }}
               aria-label="Checkout my linkedin profile"
