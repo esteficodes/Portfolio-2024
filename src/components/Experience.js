@@ -61,11 +61,21 @@ const Experience = () => {
             style={{ scaleY: scrollYProgress }}
           />
           <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
+          <Details
+              position="Frontend Developer"
+              company="Nordinsight"
+              companyLink="https://nordinsight.com/"
+              time="March 2025 - May 2025 Internship"
+              address="Remote"
+              work="Worked on a full-stack notification system for a medical platform using React (TypeScript), Express, and MongoDB.
+               I focused on user-specific notifications, role-based visibility, and dynamic UI updates using Context API, REST APIs, and TailwindCSS — 
+               keeping my skills sharp and deepening my experience in production-level feature development."
+            />
             <Details
               position="Frontend Developer"
               company="COBOD International"
               companyLink="https://cobod.com/"
-              time="May 2023-Present"
+              time="May 2023 - October 2024"
               address="Skudehavnsvej 17A, 2150 København"
               work="Responsible for managing and enhancing a WordPress-based website, ensuring optimal functionality and user experience.
               

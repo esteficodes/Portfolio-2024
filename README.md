@@ -1,6 +1,6 @@
 # 🚀 Personal Portfolio – React & TailwindCSS
 
-Welcome to my personal portfolio project! This site showcases my work, skills, and more. Built with **Next.js**, **TypeScript**, **TailwindCSS**, and enhanced with modern animations and design tools.
+Welcome to my personal portfolio project! This site showcases my work, skills, and more. Built with **Next.js**, **TypeScript** (to be added), **TailwindCSS**, and enhanced with modern animations and design tools.
 
 ---
 
